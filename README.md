@@ -1,0 +1,2 @@
+# tambola
+generate tambola tickets
